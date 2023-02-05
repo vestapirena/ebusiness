@@ -1,0 +1,39 @@
+@media only screen and (max-width: 575px) {  
+  .my_container {
+    /*background-color: #32334A;*/
+    width: 100%;
+    padding: 10px;
+  }
+}
+  
+@media (min-width: 576px) { 
+  .my_container {
+    /*background-color: #32334A;*/
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .my_container {
+    /*background-color: #32334A;*/
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+.my_container {
+    /*background-color: #32334A;*/
+    width: 70%;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 1200px) { 
+.my_container {
+    /*background-color: #32334A;*/
+     width: 60%;
+     padding: 10px;
+  }
+}

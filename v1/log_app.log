@@ -1,0 +1,3 @@
+[Sun, 05 Feb 2023 20:17:15 +0100] ok 001: insert_product {"id":"","product_name":"Mini Dress Long Sleeve","product_price":"38.99","product_amount":"5"}
+[Sun, 05 Feb 2023 20:18:24 +0100] ok 001: insert_product {"id":"","product_name":"Dresses for Women Casual","product_price":"36.99","product_amount":"8"}
+[Sun, 05 Feb 2023 20:19:00 +0100] ok 001: insert_product {"id":"","product_name":"Party Mini Dress","product_price":"29","product_amount":"3"}
